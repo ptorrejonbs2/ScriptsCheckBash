@@ -1,4 +1,6 @@
 # ScriptsCheckBash
 A Collection of Scripts in bash to remotly check resources
 
-First Maqueta.sh shows a coloro titled startup for scripts.
+First Maqueta.sh shows a color titled startup for scripts.
+
+get resources get remote machines /var disc status and current time from a ip host list "listahosts.csv"
